@@ -1,6 +1,6 @@
 {
   "name": "create-ionic-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cli shortcut over `npx --yes -p @ionic/cli ionic start $@`",
   "bin": {
     "create-ionic-template": "cli.sh"
