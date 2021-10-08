@@ -2,12 +2,16 @@
   "name": "create-ionic-template",
   "version": "1.0.0",
   "description": "cli shortcut over `npx --yes -p @ionic/cli ionic start $@`",
-  "main": "index.js",
   "bin": {
     "create-ionic-template": "cli.sh"
   },
-  "scripts": {},
-  "keywords": [],
+  "keywords": [
+    "ionic",
+    "init",
+    "create",
+    "template",
+    "cli"
+  ],
   "author": {
     "name": "Beeno Tung",
     "email": "aabbcc1241@yahoo.com.hk",
